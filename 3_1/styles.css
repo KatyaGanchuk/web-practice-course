@@ -1,0 +1,14 @@
+body{
+    background-color: rgba(0,0,0,.075);
+}
+.traditions{
+    font-size: 48px;
+    padding-bottom: 40px;
+    padding-top: 30px;
+}
+.btn:hover{
+    transform: scale(1.2); 
+}
+.btn:active{
+    background-color: green!important;
+}
