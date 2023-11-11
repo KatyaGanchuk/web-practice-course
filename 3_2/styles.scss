@@ -1,0 +1,14 @@
+$primary-color: #ff6600;
+h1 {
+    color: $primary-color;
+}
+a {
+    display: flex;
+    color: $primary-color;
+    &:hover {
+    color: darken($primary-color, 10%);
+    }
+    &:active{
+    color:rgb(23, 13, 45) ;
+    }
+}
