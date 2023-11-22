@@ -1,0 +1,40 @@
+img{
+    width:100%;
+}
+.menu ul{
+    justify-content: center;
+}
+.menu a{
+    color:white;
+}
+.menu a:hover{
+    color:yellow;
+}
+.menu a:active{
+    color:black;
+}
+section{
+    padding: 20px 0;
+}
+#footer{
+    background-color: blue;
+}
+#footer p{
+    color:aliceblue;
+}
+#header{
+    background-color: blue;
+}
+#borsch img{
+    box-shadow: 5px 5px 5px red;
+}
+#cabbage-rolls img{
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+#boiled-dough img{
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 15px 25px, rgba(0, 0, 0, 0.05) 0px 5px 10px;
+}
+#header h1{
+    color: yellow;
+    opacity: 0.8;
+}
